@@ -4,7 +4,7 @@ A linguagem Java permite desenvolver aplicações para diversas finalidades, com
 
 ## Principais Plataformas
 
-![alt](/home/tiago3neres/Documentos/dio-bootcamps/orange-tech-backend/bootcamp-notes/basic-java/images/plataformas-java.png)
+![alt](images/plataformas-java.png)
 
 - **JSE (Java Standard Edition)** 
   Base da linguagem. Para PCs e servidores. Inclui bibliotecas básicas e o **Swing** para interfaces gráficas.
@@ -40,7 +40,7 @@ A linguagem Java permite desenvolver aplicações para diversas finalidades, com
 
 ## ⚙️ Processo de Desenvolvimento Java
 
-![alt](/home/tiago3neres/Documentos/dio-bootcamps/orange-tech-backend/bootcamp-notes/basic-java/images/processo-de-desenvolvimento.png)
+![alt](images/processo-de-desenvolvimento.png)
 
 1. O código é escrito em arquivos `.java`
 2. Compilado com `javac`, gerando arquivos `.class` com **bytecode**
