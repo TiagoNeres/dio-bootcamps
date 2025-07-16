@@ -21,7 +21,7 @@
 | `git add *`                  | Adiciona todos os arquivos modificados.                                 |
 | `git commit -m "mensagem"`   | Cria um commit com uma mensagem descritiva.                             |
 | `git rm <arquivo>`           | Remove um arquivo do Git **e** do seu disco local.                      |
-| ``git rm --cached <arquivo>` | Remove um arquivo **somente do Git**, mas mantém ele no disco.          |
+| `git rm --cached <arquivo>` | Remove um arquivo **somente do Git**, mas mantém ele no disco.          |
 | `git rm -r <pasta>/`         | Remove uma **pasta e todos os arquivos dentro** dela do Git e do disco. |
 | `git mv <antigo> <novo>`     | Move ou renomeia um arquivo/diretório no repositório Git.               |
 
