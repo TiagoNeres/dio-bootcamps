@@ -1,3 +1,3 @@
-# dio-bootcamps
+# 🔵 dio-bootcamps
 
-Repositório com projetos, desafios e atividades práticas desenvolvidas durante os cursos da DIO.me.
+Repositório com projetos, anotações e desafios práticos desenvolvidos durante os cursos da DIO.me.
